@@ -1,6 +1,5 @@
 # webasyst-shopscript
 ![alt text](https://github.com/MOLPay/Prestashop_Plugin/wiki/images/molpay-developer.jpg)
-![alt text](https://cloud.githubusercontent.com/assets/6263224/5717583/333763e0-9b3e-11e4-8cbc-214294083ddf.jpg)
 MOLPay Webasyst Shopping Cart Plugin develop by MOLPay technical team.
 
 # Notes
