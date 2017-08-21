@@ -1,0 +1,43 @@
+
+*** These modified files were found in JOE when it aborted on Wed Aug  9 13:03:27 2017
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+_POST
+i
+Mage_MOLPaySeamless
+molpayseamless
+molpayseamless
+
+*** File '(Unnamed)'
+order
+currency
+HTTP
+HTTPS
+$channel_name
+$method_name
+getSessionPaymentChannel
+savePayment
+sskey
+if ($skey == $key1)
+
+*** File '(Unnamed)'
+config.php
+plugin.php
+plugin.php
+plugin.php
+plugins.php
+plugin.php
+paypalPayment.class.php
+plugin.php
+.files.md5
+.htaccess
+paypalPayment.class.php
+paypalPayment.class.php
+paypalPayment.class.php
+paypalPayment.class.php
+paypalPayment.class.php
+paypalPayment.class.php
+paypalPayment.class.php
+paypalPayment.class.php
+paypalPayment.class.php
